@@ -16,7 +16,7 @@
  
 ## Documentation
 
-https://github.com/fluxapps/LiveVoting/blob/master/doc/Documentation.pdf
+https://github.com/livevoting-ilias/LiveVoting/blob/main/doc/Documentation.pdf
  
 ## Installation
 
@@ -46,13 +46,7 @@ For display the exported PowerPoint files you need to install the WebViewer-AddI
 https://appsource.microsoft.com/en-us/product/office/WA104295828?tab=Overview
 You need also to configure your website as HTTPS and allow that your website can be displayed in frames.
 
-## Contributing :purple_heart:
-Please ...
-1. ... register an account at https://git.fluxlabs.ch
-2. ... create pull requests :fire:
 
-## Adjustment suggestions / bug reporting :feet:
-Please ...
-1. ... register an account at https://git.fluxlabs.ch
-2. ... ask us for a Service Level Agreement: support@fluxlabs.ch :kissing_heart:
-3. ... Read and create issues
+## Adjustment suggestions / bug reporting 
+Please create Issues on github https://github.com/livevoting-ilias/LiveVoting/issues
+
